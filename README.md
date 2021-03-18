@@ -10,4 +10,4 @@ My name is Guillaume, I'm a french student, currently trying to prepare for an e
 
 Discord: Ino#7587
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guigui220D&theme=default&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guigui220D&theme=vue&show_icons=true)
