@@ -12,4 +12,6 @@ My name is Guillaume, I'm a french student at UTT, France, for an engineer degre
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guigui220D&theme=radical&show_icons=true)
 
-**Currently working on**: PNG encoder for [zigimg](https://github.com/zigimg/zigimg)
+**Currently working on**: 
+- PNG encoder for [zigimg](https://github.com/zigimg/zigimg)
+- Learning functional programming ([Haskell](https://www.haskell.org/))
