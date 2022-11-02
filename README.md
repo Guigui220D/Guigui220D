@@ -6,7 +6,7 @@
 
 My name is Guillaume, I'm a french student at UTT, France, for an engineer degree in Automatics and Industrial data processing.
 
-🌱 Big [Zig](https://ziglang.org/) fan! I find this langage great for low level programming. I'm also trying to get into electronics.
+🌱 Big [Zig](https://ziglang.org/) fan! I find this language great for low level programming. I'm also trying to get into electronics.
 
 **Discord**: Ino#7587
 
