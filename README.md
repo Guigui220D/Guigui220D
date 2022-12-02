@@ -10,10 +10,10 @@ My name is Guillaume, I'm a french student at UTT, France, for an engineer degre
 
 **Discord**: Ino#7587
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guigui220D&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guigui220D&show_icons=true&theme=dark)
 
 **Currently working on**: 
 - PNG encoder for [zigimg](https://github.com/zigimg/zigimg)
 - Learning functional programming ([Haskell](https://www.haskell.org/))
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Guigui220D&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Guigui220D&layout=compact&theme=dark)
