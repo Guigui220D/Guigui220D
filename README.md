@@ -11,7 +11,7 @@ My name is Guillaume, I'm a french research engineer in embedded systems, with a
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guigui220D&show_icons=true&theme=dark)
 
 **Currently working on**: 
-- PNG encoder for [zigimg](https://github.com/zigimg/zigimg)
-- Learning functional programming ([Haskell](https://www.haskell.org/))
+- VHDL on FPGA
+- Linux low level concepts
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Guigui220D&layout=compact&theme=dark)
