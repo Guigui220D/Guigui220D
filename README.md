@@ -6,7 +6,4 @@
 
 ✨ My name is Guillaume, I'm a french research engineer in embedded systems, writing a PhD thesis on nuclear instrumentation
 
-⌨️​ I also program in my free time, with an interest in low-level langages like Zig and game design
-
-### 📊 Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guigui220D&show_icons=true&theme=dark)
+⌨️​ I also program in my free time, with an interest in low-level langages like Zig and Minecraft-related things
